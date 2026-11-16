@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://niagarafallselectrician.ca/sitemap-index.xml
